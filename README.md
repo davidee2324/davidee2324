@@ -12,9 +12,9 @@
 # LISTA DE COMANDOS:
 | Comando | Descripción                 |
 |---------|-----------------------------|
- | ls     | Esto es una prueba de tabla |
- | cd     | Esto es una prueba de tabla |
- | clear  | Esto es una prueba de tabla |
- | alias  | Esto es una prueba de tabla |
- | yo     | Esto es una prueba de tabla |
+ | ls     | listar                      |
+ | pwd    | devolver a la ruta actual   |
+ | clear  | limpiar                     |
+ | cp     | copiar                      |
+ | mv     | mover                       |
 
